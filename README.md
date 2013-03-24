@@ -6,3 +6,5 @@ A test project for trying out different approaches to project structure and work
 Pat's added a new feature.
 
 Liam's added a newer feature. Skills!
+
+Pat's added another crazy feature.
