@@ -7,4 +7,4 @@ Pat's added a new feature.
 
 Liam's added a newer feature. Skills!
 
-Pat's added another wicked feature.
+Pat's added another awesome feature.
